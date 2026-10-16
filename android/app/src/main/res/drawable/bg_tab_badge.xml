@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    bg_tab_badge.xml
+    Circular red background for the tab-count badge overlaid on btn_tabs.
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="@color/tab_badge_bg" />
+</shape>

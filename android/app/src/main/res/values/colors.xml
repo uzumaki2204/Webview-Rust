@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#F5F5F5</color>
+    <color name="tab_badge_bg">#F44336</color>
+    <color name="tab_badge_text">#FFFFFF</color>
+    <color name="url_bar_bg">#F0F0F0</color>
+    <color name="toolbar_bg">#FFFFFF</color>
+</resources>

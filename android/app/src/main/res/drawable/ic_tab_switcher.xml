@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    ic_tab_switcher.xml
+    Rounded-square icon used for the tab-count switcher button,
+    similar to the Chrome tab-count indicator.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Outer rounded square -->
+    <path
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="2"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M4,6 Q4,4 6,4 L18,4 Q20,4 20,6 L20,18 Q20,20 18,20 L6,20 Q4,20 4,18 Z" />
+    <!-- Inner smaller square (stacked pages feel) -->
+    <path
+        android:strokeColor="@android:color/black"
+        android:strokeWidth="1.5"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M7,4 L7,3 Q7,2 8,2 L19,2 Q21,2 21,4 L21,17 Q21,18 20,18" />
+</vector>

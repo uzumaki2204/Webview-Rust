@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QCBrowser</string>
+    <string name="url_bar_hint">Search or type URL</string>
+    <string name="new_tab">New Tab</string>
+    <string name="reload">Reload</string>
+    <string name="close_tab">Close Tab</string>
+    <string name="tabs">Tabs</string>
+    <string name="downloading">Downloading: %s</string>
+</resources>
